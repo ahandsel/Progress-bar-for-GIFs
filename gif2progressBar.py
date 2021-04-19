@@ -7,7 +7,7 @@ from PIL import Image
 import imageio
 import datetime
 
-# Color input as REG
+# Color input as RGB
 # Gray = (153, 153, 153)
 # Soft Blue = 172, 219, 242
 bar_color = (172, 219, 242)
