@@ -7,7 +7,7 @@ A script that helps you catch the end of perfectly-looping GIFs, preventing you 
 We need two image processing libraries of python, [Pillow](https://pillow.readthedocs.io/en/4.1.x/) and [imageio](http://imageio.readthedocs.io/en/latest/installation.html) to manipulate image frames and compose a new GIF.
 
 ```python
-pip install Pillow, imageio
+pip3 install Pillow, imageio
 ```
 
 ## Usage
