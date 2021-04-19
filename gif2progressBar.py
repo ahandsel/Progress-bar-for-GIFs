@@ -55,7 +55,7 @@ for im in frames:
     progress_frames.append(numpy.array(im))
     i += 1
 
-print("Almost there...")
+print("Now the hard part...")
 now = datetime.datetime.now()
 timeStamp = "% s" % now.year + "_" + "% s" % now.month + "_" + "% s" % now.day + "_" + "% s" % now.hour + "% s" % now.minute
 
